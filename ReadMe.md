@@ -1,5 +1,6 @@
 # Description
-- This is the Starship SD1-A4 assignment. The user can control a ship to move around using keyboard or Xbox controller, and fire bullets at asteroids/beetles/wasps to destroy them.
+- This is the Starship, a 2D top-down space shooter where players bounce around on a large map shooting enemy ships.
+- The user can control a ship to move around using keyboard or Xbox controller, and fire bullets at asteroids/beetles/wasps to destroy them.
 - This project requires the Engine dll library to work, please see the instructions in "Engine" project before trying to open this project in Visual Studio.
 
 
