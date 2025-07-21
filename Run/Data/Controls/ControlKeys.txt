@@ -1,0 +1,30 @@
+[Gameplay Controls]
+Keyboard:
+- Press "N" in attract mode to start the game
+- Press "E" to thrust toward where the ship is facing
+- Press "S" to turn to the left and "F" to the right
+- Press "space" to fire a bullet from the tip of the ship
+- Hold "space" to perform rapidfire
+- Press "R" to perform starburst
+- Hold "shift" to enable slow-motion (can rotate with normal speed in slow-motion)
+- When dead, press "N" to respawn the ship at the center of the screen
+- Press "ESC" in game to go back to attract mode
+- Press "ESC" in attract mode to exit the program
+Xbox controller:
+- Press "START" or "A" in attract mode to start the game
+- Press "A" to fire a bullet from the tip of the ship
+- Hold "A" to perform rapidfire
+- Press "X" to perform starburst
+- Move left joystick to turn to the left/right and thrust toward where the ship is facing
+	- the more tilted joystick is, the more acceleration the ship gets
+- When dead, press "START" to respawn the ship at the center of the screen
+- Hold "RB" to enable slow-motion (can rotate with normal speed in slow-motion)
+
+[Debug Controls]
+Keyboard:
+- Press F1 to toggle debug drawing for all entities
+- Press "I" to spawn an asteroid at random position offscreen
+- Press "F8" to reset the game
+- Press "P" to pause/un-pause the game
+- Hold "T" to slow the rate of time to 10% normal, while held
+- Press "O" to un-pause the game, allows one frame of Update to run, then pauses the game
